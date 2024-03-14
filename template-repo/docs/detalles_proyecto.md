@@ -1,4 +1,4 @@
-# Nombre del programa
+# Nombre del Proyecto
 
 Fecha:
 
