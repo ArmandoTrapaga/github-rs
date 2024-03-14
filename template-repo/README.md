@@ -1,4 +1,3 @@
-#Hola te hackearon la cuenta, pvp o que manco 
 # Nombre del programa
 
 Este es un script de Python diseñado para...
@@ -9,7 +8,6 @@ Explicacion de la sintaxis
 
 ```
 # Sintaxis del codigo
-
 ```
 
 ## Salida
@@ -27,7 +25,6 @@ El script incluye un conjunto de pruebas unitarias. Puede ejecutar estas pruebas
 
 ```
 python -m unittest nombre_de_programa.py
-
 ```
 
 ## Datos
