@@ -1,6 +1,5 @@
 # Nombre del programa
 
-Fecha: //2024
 Este es un script de Python diseñado para...
 
 ## Uso
